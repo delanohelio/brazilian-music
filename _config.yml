@@ -1,10 +1,10 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Brazilian Music Beyond Samba"
+title: "Brazilian Music Beyond Samba"
+description: "Discover the beauty of Brazil's culture."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /brazilian-music
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,21 +14,21 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Cícero Carlos de Oliveira
+    display_name: Cícero
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    avatar: 'assets/images/avatar.png'
+    email: cicerocarlos@yahoo.com.br
+    twitter:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    name: Delano Hélio Oliveira
+    display_name: Delano
+    avatar: 'assets/images/delano.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: delanohelio@gmail.com
+    web: https://delanohelio.github.io
+    twitter: https://twitter.com/delanohelio
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
